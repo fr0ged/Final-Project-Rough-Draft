@@ -1,0 +1,27 @@
+2023-06-19 15:00:18.172 [info] [Info  - 3:00:17 PM] (6989) Pylance language server 2023.6.20 (pyright 73165c50) starting
+2023-06-19 15:00:18.173 [info] [Info  - 3:00:18 PM] (6989) Server root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.20/dist
+2023-06-19 15:00:18.227 [info] [Info  - 3:00:18 PM] (6989) Starting service instance "nvidia"
+2023-06-19 15:00:18.546 [info] [Info  - 3:00:18 PM] (6989) Setting pythonPath for service "nvidia": "/usr/bin/python3"
+2023-06-19 15:00:18.582 [info] [Warn  - 3:00:18 PM] (6989) stubPath /home/nvidia/typings is not a valid directory.
+2023-06-19 15:00:18.719 [info] [Info  - 3:00:18 PM] (6989) Assuming Python version 3.6
+2023-06-21 14:12:10.702 [info] [Error - 2:12:10 PM] (6989) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2023-06-21 14:12:11.194 [info] [Info  - 2:12:11 PM] (6989) Found 194 source files
+2023-06-21 14:12:11.629 [info] [Info  - 2:12:11 PM] (6989) Skipping django stubs download because package is not installed.
+2023-06-21 14:12:13.053 [info] [Info  - 2:12:13 PM] (6989) Background analysis(1) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.20/dist
+2023-06-21 14:12:13.053 [info] [Info  - 2:12:13 PM] (6989) Background analysis(1) started
+2023-06-21 14:12:15.078 [info] [Info  - 2:12:15 PM] (6989) Indexer background runner(2) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.20/dist (index)
+2023-06-21 14:12:15.079 [info] [Info  - 2:12:15 PM] (6989) Indexing(2) started
+2023-06-21 14:12:16.020 [info] [Info  - 2:12:16 PM] (6989) [BG(1)] Long operation: getSemanticTokens full at /home/nvidia/my-recognition/my-recognition.py (3038ms)
+2023-06-21 14:12:18.370 [info] [Info  - 2:12:18 PM] (6989) [IDX(2)] Long operation: scan packages /home/nvidia (3281ms)
+2023-06-21 14:12:18.371 [info] [Info  - 2:12:18 PM] (6989) scanned(2) 195 files over 1 exec env
+2023-06-21 14:12:26.954 [info] [Info  - 2:12:26 PM] (6989) [IDX(2)] Long operation: index execution environment /home/nvidia (8072ms)
+2023-06-21 14:12:27.001 [info] [Info  - 2:12:27 PM] (6989) [IDX(2)] Long operation: index packages /home/nvidia (8319ms)
+2023-06-21 14:12:27.002 [info] [Info  - 2:12:27 PM] (6989) indexed(2) 116 files over 1 exec env
+2023-06-21 14:12:27.117 [info] [Info  - 2:12:27 PM] (6989) Indexing finished(2).
+2023-06-21 14:39:47.059 [info] [Info  - 2:39:47 PM] (6989) Skipping django stubs download because package is not installed.

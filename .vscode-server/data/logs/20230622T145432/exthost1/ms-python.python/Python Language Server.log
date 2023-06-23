@@ -1,0 +1,21 @@
+2023-06-23 13:52:07.421 [info] [Info  - 1:52:07 PM] (10638) Pylance language server 2023.6.30 (pyright ae795f5b) starting
+2023-06-23 13:52:07.423 [info] [Info  - 1:52:07 PM] (10638) Server root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.30/dist
+2023-06-23 13:52:07.429 [info] [Info  - 1:52:07 PM] (10638) Starting service instance "nvidia"
+2023-06-23 13:52:07.584 [info] [Info  - 1:52:07 PM] (10638) Setting pythonPath for service "nvidia": "/usr/bin/python3"
+2023-06-23 13:52:07.603 [info] [Warn  - 1:52:07 PM] (10638) stubPath /home/nvidia/typings is not a valid directory.
+2023-06-23 13:52:07.905 [info] [Info  - 1:52:07 PM] (10638) Assuming Python version 3.6
+2023-06-23 13:52:09.104 [info] [Info  - 1:52:09 PM] (10638) Found 194 source files
+2023-06-23 13:52:09.430 [info] [Info  - 1:52:09 PM] (10638) Skipping django stubs download because package is not installed.
+2023-06-23 13:52:10.573 [info] [Info  - 1:52:10 PM] (10638) Background analysis(1) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.30/dist
+2023-06-23 13:52:10.576 [info] [Info  - 1:52:10 PM] (10638) Background analysis(1) started
+2023-06-23 13:52:12.214 [info] [Info  - 1:52:12 PM] (10638) Indexer background runner(2) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.30/dist (index)
+2023-06-23 13:52:12.214 [info] [Info  - 1:52:12 PM] (10638) Indexing(2) started
+2023-06-23 13:52:15.217 [info] [Info  - 1:52:15 PM] (10638) [BG(1)] Long operation: getSemanticTokens full at /home/nvidia/jetson-inference/python/training/classification/train.py (4682ms)
+2023-06-23 13:52:15.267 [info] [Info  - 1:52:15 PM] (10638) [IDX(2)] Long operation: scan packages /home/nvidia (3039ms)
+2023-06-23 13:52:15.267 [info] [Info  - 1:52:15 PM] (10638) scanned(2) 195 files over 1 exec env
+2023-06-23 13:52:17.465 [info] [Info  - 1:52:17 PM] (10638) [BG(1)] Long operation: checking: /home/nvidia/jetson-inference/python/training/classification/train.py (2215ms)
+2023-06-23 13:52:17.466 [info] [Info  - 1:52:17 PM] (10638) [BG(1)] Long operation: analyzing: /home/nvidia/jetson-inference/python/training/classification/train.py (2217ms)
+2023-06-23 13:52:26.474 [info] [Info  - 1:52:26 PM] (10638) [IDX(2)] Long operation: index execution environment /home/nvidia (10892ms)
+2023-06-23 13:52:26.564 [info] [Info  - 1:52:26 PM] (10638) [IDX(2)] Long operation: index packages /home/nvidia (11032ms)
+2023-06-23 13:52:26.564 [info] [Info  - 1:52:26 PM] (10638) indexed(2) 115 files over 1 exec env
+2023-06-23 13:52:26.632 [info] [Info  - 1:52:26 PM] (10638) Indexing finished(2).

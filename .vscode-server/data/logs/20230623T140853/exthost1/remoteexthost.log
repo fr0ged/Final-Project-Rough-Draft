@@ -1,0 +1,18 @@
+2023-06-23 14:12:22.775 [info] Extension host with pid 7238 started
+2023-06-23 14:12:22.796 [error] Error: EEXIST: file already exists, open '/home/nvidia/.vscode-server/data/User/workspaceStorage/53a770fe30a7488fa8218a7361917a89/vscode.lock'
+2023-06-23 14:12:22.826 [info] Lock '/home/nvidia/.vscode-server/data/User/workspaceStorage/53a770fe30a7488fa8218a7361917a89/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-06-23 14:12:22.864 [info] Lock '/home/nvidia/.vscode-server/data/User/workspaceStorage/53a770fe30a7488fa8218a7361917a89/vscode.lock': The pid 7180 appears to be gone.
+2023-06-23 14:12:22.864 [info] Lock '/home/nvidia/.vscode-server/data/User/workspaceStorage/53a770fe30a7488fa8218a7361917a89/vscode.lock': Deleting a stale lock.
+2023-06-23 14:12:23.045 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-23 14:12:23.050 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-06-23 14:12:24.073 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-23 14:12:24.096 [info] Lock '/home/nvidia/.vscode-server/data/User/workspaceStorage/53a770fe30a7488fa8218a7361917a89/vscode.lock': Lock acquired.
+2023-06-23 14:12:24.515 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-23 14:12:24.516 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-23 14:12:25.126 [info] Eager extensions activated
+2023-06-23 14:12:25.127 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-23 14:12:25.129 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-23 14:12:25.517 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-06-23 14:15:45.228 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-06-23 17:07:34.123 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-06-23 17:07:39.031 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000

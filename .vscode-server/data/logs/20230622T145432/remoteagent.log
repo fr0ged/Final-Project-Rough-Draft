@@ -1,0 +1,26 @@
+2023-06-23 13:08:41.074 [info] 
+
+
+
+
+2023-06-23 13:08:41.202 [info] Extension host agent started.
+2023-06-23 13:08:41.451 [info] [127.0.0.1][1f40ccce][ManagementConnection] New connection established.
+2023-06-23 13:08:41.502 [info] [127.0.0.1][0e6a55ac][ExtensionHostConnection] New connection established.
+2023-06-23 13:08:41.646 [info] Deleted from disk ms-python.vscode-pylance /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.20
+2023-06-23 13:08:42.252 [info] [127.0.0.1][0e6a55ac][ExtensionHostConnection] <7180> Launched Extension Host Process.
+2023-06-23 13:13:41.205 [info] New EH opened, aborting shutdown
+2023-06-23 13:38:44.849 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 13:39:38.601 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 13:40:09.038 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 13:40:47.453 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 13:41:22.153 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 13:47:46.502 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 13:47:58.503 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 13:48:46.275 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 13:51:13.758 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 13:59:30.199 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 13:59:51.082 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 14:00:45.697 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 14:01:05.911 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 14:01:17.218 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 14:02:57.942 [warning] No ptyHost heartbeat after 6 seconds

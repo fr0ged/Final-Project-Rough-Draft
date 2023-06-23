@@ -1,0 +1,7 @@
+2023-06-22 13:13:05.148 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-06-22 13:13:05.148 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-06-22 13:13:05.148 [info] Experiment 'pythonSurveyNotificationcf' is active
+2023-06-22 13:13:05.148 [info] Test server listening.
+2023-06-22 13:13:05.148 [info] Python interpreter path: /usr/bin/python3
+2023-06-22 13:13:08.648 [info] Starting Pylance language server.
+2023-06-22 13:35:09.884 [info] Discover tests for workspace name: nvidia - uri: /home/nvidia

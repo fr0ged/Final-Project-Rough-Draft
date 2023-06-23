@@ -1,0 +1,12 @@
+2023-06-23 13:08:45.492 [info] Extension host with pid 7180 started
+2023-06-23 13:08:45.595 [info] Lock '/home/nvidia/.vscode-server/data/User/workspaceStorage/53a770fe30a7488fa8218a7361917a89/vscode.lock': Lock acquired.
+2023-06-23 13:08:45.714 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-23 13:08:45.960 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-23 13:08:46.023 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-23 13:08:46.024 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-23 13:08:46.627 [info] Eager extensions activated
+2023-06-23 13:08:46.629 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-23 13:08:46.631 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-23 13:34:04.583 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-06-23 13:52:02.395 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-06-23 13:52:03.871 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'

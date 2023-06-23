@@ -1,0 +1,19 @@
+2023-06-23 14:08:53.945 [info] 
+
+
+
+
+2023-06-23 14:08:54.052 [info] Extension host agent started.
+2023-06-23 14:08:54.258 [error] [127.0.0.1][1f40ccce][ManagementConnection] Unknown reconnection token (never seen).
+2023-06-23 14:08:54.292 [error] [127.0.0.1][0e6a55ac][ExtensionHostConnection] Unknown reconnection token (never seen).
+2023-06-23 14:12:20.912 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-06-23 14:12:20.912 [info] Cancelling previous shutdown timeout
+2023-06-23 14:12:20.978 [info] [127.0.0.1][ecc02146][ManagementConnection] New connection established.
+2023-06-23 14:12:21.054 [info] [127.0.0.1][a735ef9f][ExtensionHostConnection] New connection established.
+2023-06-23 14:12:21.490 [info] [127.0.0.1][a735ef9f][ExtensionHostConnection] <7238> Launched Extension Host Process.
+2023-06-23 14:17:20.913 [info] New EH opened, aborting shutdown
+2023-06-23 14:20:58.835 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 14:21:28.152 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 14:22:05.259 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 14:22:45.867 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-23 14:24:28.417 [warning] No ptyHost heartbeat after 6 seconds
