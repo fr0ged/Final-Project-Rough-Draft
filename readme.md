@@ -1,16 +1,16 @@
-# Project Name
+# Micro-organism Identification
 
- Add short description of project here > 
+ This project uses images from a pre-given dataset to predict images of microorganism and help find viruses.
 
 ![add image descrition here](direct image link here)
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+The my-recognition file trains the model and uses the images from the dataset with train, test, and val. Unfortunetly I didn't have enough time with office hours and my Nano's VSCode did not work. I could not connect with SSH and could not find any other way to connect(there was no more office hours to ask for help). I am truly sorry and I tried my best.
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. Run the code and start with training the model, then uploading images you want to test.
+2. You need Resnet to be able to recognize the photos.
 
 [View a video explanation here](video link)
